@@ -222,7 +222,17 @@ How a README Contributes to Effective Collaboration
 
 ##**Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects
 
-A public repository is accessible to everyone on GitHub. Anyone can view, clone, and fork the code, but only authorized collaborators can make direct changes.
+****Differences between a public repository and a private repository on GitHub
+ Public repository is Open to everyone,	 while private repository is restricted to invited users
+	In Public repository anyone can fork,while private repository only authorized users can push changes	Only invited collaborators can access and contribute
+	In Public repository Code is publicly visible,while private repository	Code is hidden and secure.
+	In Public repository	it is Open-source; community-drive,while private repository it is	Controlled; limited to team members
+ Public repository	appears in GitHub and search engine,while private repository it is not indexed or visible to non-collaborators
+	In Public repository it is	Free for unlimited collaborators,while private repository it is 	Free for individuals, but paid plans for teams with advanced features
+	In Public repository high (code and issues are visible to all),while  in private repository it is	Low (restricted access)
+	In Public repository Open-source projects, educational resources, portfolios,while private repository	Proprietary software, confidential business projects, early-stage development
+A public repository is accessible to everyone on GitHub. Anyone can view, clone, and fork the code,,while private repository  only authorized collaborators can make direct changes.
+
 Advantages 
 Open Collaboration 
 
